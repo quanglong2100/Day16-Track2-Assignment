@@ -1,0 +1,15 @@
+{
+  "machine_type": "e2-standard-8",
+  "data_source": "Kaggle Credit Card Fraud",
+  "metrics": {
+    "load_time_sec": 1.7285,
+    "training_time_sec": 1.1116,
+    "auc_roc": 0.7953,
+    "accuracy": 0.9962,
+    "f1_score": 0.3540,
+    "precision": 0.2490,
+    "recall": 0.6122,
+    "inference_latency_ms": 0.3836,
+    "throughput_ms": 1.5323
+  }
+}
